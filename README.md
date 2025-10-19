@@ -1,3 +1,4 @@
 Hello, 
 
-I'm Marco, a PhD student in Copenhagen researching diffusion and flow-matching models for image generation. Outside of work, [I make art](https://marcoschouten.portfoliobox.net/) and enjoy triathlon sports.
+I'm Marco, a PhD student in Copenhagen researching diffusion and flow-matching models for image generation.
+Outside of work, [I make art](https://marcoschouten.portfoliobox.net/) and enjoy triathlon sports.
